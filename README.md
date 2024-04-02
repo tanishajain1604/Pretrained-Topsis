@@ -26,7 +26,7 @@ The results of the evaluation are saved in `results.csv` and `topsis.csv`. Bar g
 
 ## File Descriptions
 
-- `102103624_pretrained-Topsis.py`: Main script for evaluating language models and performing analysis.
+- `102103611_pretrained-Topsis.py`: Main script for evaluating language models and performing analysis.
 - `results.csv`: CSV file containing detailed evaluation results.
 - `topsis.csv`: CSV file containing TOPSIS analysis results.
 - `Topsis_Ranking.png`: Bar graph visualizing TOPSIS scores.
